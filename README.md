@@ -13,7 +13,7 @@ Primeira tarefa utilizando utilizando HTML/CSS/Javascript.
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="Telas Exemplos" src="./assests/avatar.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
